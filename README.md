@@ -64,3 +64,8 @@
 ## Html,  CSS,  JavaScript, Github, Figma
 
 **
+# Installation
+
+**clone the repositrory form github : https://github.com/Atefa1234/New-try-to-make-the-calculator-in-JavaScript**
+
+**Deploy URL : https://new-try-to-make-the-calculator-in-java-script.vercel.app/**
